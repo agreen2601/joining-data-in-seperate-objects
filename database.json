@@ -1,0 +1,58 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Atlas",
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Ramrod",
+            "departmentId": 2,
+            "computerId": 1
+        },
+        {
+            "id": 3,
+            "name": "Dominatrix",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 4,
+            "name": "Portugues Man of War",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "id": 5,
+            "name": "Chet",
+            "departmentId": 3,
+            "computerId": 2
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "name": "Child care"
+        },
+        {
+            "id": 2,
+            "name": "Spiritual wellbeing"
+        },
+        {
+            "id": 3,
+            "name": "Embracing life with the elderly"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "name": "Pristine machine"
+        },
+        {
+            "id": 2,
+            "name": "Hunk-a-junk"
+        }
+    ]
+}
